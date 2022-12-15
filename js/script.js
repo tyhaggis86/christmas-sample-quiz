@@ -63,7 +63,7 @@ restart_quiz.onclick = ()=>{
 // if quitQuiz button clicked
 quit_quiz.onclick = ()=>{
     // window.location.reload(); //reload the current window
-    window.open('mailto:clairer@customlinc.com?subject=Round One Trivia Results')
+    window.open('mailto:clairer@customlinc.com?subject=Do not send me this')
 }
 
 const next_btn = document.querySelector("footer .next_btn");
